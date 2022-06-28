@@ -22,7 +22,6 @@ public class Rough {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	}
 
-
 	@Test(priority=1)
 	public void validateplaceholder_loginpage() 
 	{
