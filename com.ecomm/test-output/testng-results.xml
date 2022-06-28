@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52187" started-at="2022-06-27T18:13:47 IST" finished-at="2022-06-27T18:14:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52187" started-at="2022-06-27T18:13:47 IST" finished-at="2022-06-27T18:14:39 IST">
+      <class name="com.ecomm.testcases.Loginpage_test">
+        <test-method status="PASS" signature="logintestcase001()[pri:0, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="logintestcase001" is-config="true" duration-ms="34919" started-at="2022-06-27T18:13:47 IST" finished-at="2022-06-27T18:14:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintestcase001 -->
+        <test-method status="PASS" signature="img()[pri:0, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="img" duration-ms="11111" started-at="2022-06-27T18:14:23 IST" finished-at="2022-06-27T18:14:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- img -->
+        <test-method status="PASS" signature="loginpage_title_test()[pri:0, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="loginpage_title_test" duration-ms="123" started-at="2022-06-27T18:14:34 IST" finished-at="2022-06-27T18:14:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage_title_test -->
+        <test-method status="PASS" signature="verify_appimage()[pri:1, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="verify_appimage" duration-ms="374" started-at="2022-06-27T18:14:34 IST" finished-at="2022-06-27T18:14:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_appimage -->
+        <test-method status="PASS" signature="validate_placeholder_test()[pri:2, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="validate_placeholder_test" duration-ms="122" started-at="2022-06-27T18:14:34 IST" finished-at="2022-06-27T18:14:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_placeholder_test -->
+        <test-method status="PASS" signature="message_log()[pri:3, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="message_log" duration-ms="786" started-at="2022-06-27T18:14:34 IST" finished-at="2022-06-27T18:14:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- message_log -->
+        <test-method status="PASS" signature="login_flow()[pri:4, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="login_flow" duration-ms="1122" started-at="2022-06-27T18:14:35 IST" finished-at="2022-06-27T18:14:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_flow -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ecomm.testcases.Loginpage_test@1eb8acf]" name="teardown" is-config="true" duration-ms="3096" started-at="2022-06-27T18:14:36 IST" finished-at="2022-06-27T18:14:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecomm.testcases.Loginpage_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
